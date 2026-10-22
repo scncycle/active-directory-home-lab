@@ -318,27 +318,8 @@ Once it's finished, it would look something like this.
 - Plan the IP addressing and naming in a table before starting.
 - Automate the DC promotion and the OU creation with PowerShell from the start.
 
-
-## Repository Structure
-
-```
-.
-├── README.md
-├── docs/
-│   ├── images/
-├── scripts/
-│   ├── New-LabUsers.ps1
-│   ├── Disable-LabUser.ps1
-│   ├── Get-InactiveAccounts.ps1
-│   └── Export-ADReport.ps1
-└── data/
-    └── users.csv
-```
-
 ## Author
 
 **Francisco Carmona**
 [LinkedIn](https://www.linkedin.com/in/francisco-carmona-cuevas-9827a3396/?isSelfProfile=true) · [GitHub](https://github.com/scncycle)
 
-# active-directory-home-lab
-# active-directory-home-lab
